@@ -1,0 +1,123 @@
+{
+  "chris": {
+    "name": "chris",
+    "roles": {
+      "first": 2,
+      "second": 4,
+      "third": 0,
+      "fourth": 1,
+      "fifth": 3
+    },
+    "rank": 16
+  },
+  "wesley": {
+    "name": "wesley",
+    "roles": {
+      "first": 2,
+      "second": 4,
+      "third": 0,
+      "fourth": 3,
+      "fifth": 1
+    },
+    "rank": 15
+  },
+  "hoyin": {
+    "name": "hoyin",
+    "roles": {
+      "first": 1,
+      "second": 4,
+      "third": 3,
+      "fourth": 0,
+      "fifth": 2
+    },
+    "rank": 20
+  },
+  "wilson": {
+    "name": "wilson",
+    "roles": {
+      "first": 0,
+      "second": 4,
+      "third": 2,
+      "fourth": 3,
+      "fifth": 14
+    },
+    "rank": 14
+  },
+  "shawn": {
+    "name": "shawn",
+    "roles": {
+      "first": 0,
+      "second": 3,
+      "third": 4,
+      "fourth": 1,
+      "fifth": 19
+    },
+    "rank": 17
+  },
+  "oren": {
+    "name": "oren",
+    "roles": {
+      "first": 3,
+      "second": 0,
+      "third": 4,
+      "fourth": 2,
+      "fifth": 1
+    },
+    "rank": 14
+  },
+  "john": {
+    "name": "john",
+    "roles": {
+      "first": 3,
+      "second": 4,
+      "third": 0,
+      "fourth": 1,
+      "fifth": 2
+    },
+    "rank": 10
+  },
+  "jess": {
+    "name": "jess",
+    "roles": {
+      "first": 4,
+      "second": 3,
+      "third": 2,
+      "fourth": 0,
+      "fifth": 1
+    },
+    "rank": 13
+  },
+  "tokio": {
+    "name": "tokio",
+    "roles": {
+      "first": 1,
+      "second": 0,
+      "third": 4,
+      "fourth": 2,
+      "fifth": 3
+    },
+    "rank": 15
+  },
+  "jon": {
+    "name": "jon",
+    "roles": {
+      "first": 0,
+      "second": 2,
+      "third": 1,
+      "fourth": 3,
+      "fifth": 4
+    },
+    "rank": 16
+  },
+  "solomon": {
+    "name": "solomon",
+    "roles": {
+      "first": 1,
+      "second": 2,
+      "third": 4,
+      "fourth": 0,
+      "fifth": 3
+    },
+    "rank": 4
+  }
+}
