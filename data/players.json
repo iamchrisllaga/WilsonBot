@@ -1,123 +1,35 @@
 {
-  "chris": {
-    "name": "chris",
+  "Chris": {
+    "name": "Chris",
     "roles": {
-      "first": 2,
-      "second": 4,
-      "third": 0,
-      "fourth": 1,
-      "fifth": 3
-    },
-    "rank": 16
-  },
-  "wesley": {
-    "name": "wesley",
-    "roles": {
-      "first": 2,
-      "second": 4,
-      "third": 0,
-      "fourth": 3,
-      "fifth": 1
-    },
-    "rank": 15
-  },
-  "hoyin": {
-    "name": "hoyin",
-    "roles": {
-      "first": 1,
-      "second": 4,
-      "third": 3,
-      "fourth": 0,
-      "fifth": 2
-    },
-    "rank": 20
-  },
-  "wilson": {
-    "name": "wilson",
-    "roles": {
-      "first": 0,
-      "second": 4,
-      "third": 2,
-      "fourth": 3,
-      "fifth": 14
-    },
-    "rank": 14
-  },
-  "shawn": {
-    "name": "shawn",
-    "roles": {
-      "first": 0,
-      "second": 3,
-      "third": 4,
-      "fourth": 1,
-      "fifth": 19
-    },
-    "rank": 17
-  },
-  "oren": {
-    "name": "oren",
-    "roles": {
-      "first": 3,
-      "second": 0,
-      "third": 4,
-      "fourth": 2,
-      "fifth": 1
-    },
-    "rank": 14
-  },
-  "john": {
-    "name": "john",
-    "roles": {
-      "first": 3,
-      "second": 4,
-      "third": 0,
-      "fourth": 1,
-      "fifth": 2
-    },
-    "rank": 10
-  },
-  "jess": {
-    "name": "jess",
-    "roles": {
-      "first": 4,
-      "second": 3,
-      "third": 2,
-      "fourth": 0,
-      "fifth": 1
+      "1": 2,
+      "2": 0,
+      "3": 4,
+      "4": 1,
+      "5": 3
     },
     "rank": 13
   },
-  "tokio": {
-    "name": "tokio",
+  "ray": {
+    "name": "ray",
+    "roles": {
+      "1": 4,
+      "2": 2,
+      "3": 1,
+      "4": 0,
+      "5": 3
+    },
+    "rank": 21
+  },
+  "Wilson": {
+    "name": "Wilson",
     "roles": {
       "first": 1,
       "second": 0,
-      "third": 4,
-      "fourth": 2,
+      "third": 2,
+      "fourth": 4,
       "fifth": 3
     },
-    "rank": 15
-  },
-  "jon": {
-    "name": "jon",
-    "roles": {
-      "first": 0,
-      "second": 2,
-      "third": 1,
-      "fourth": 3,
-      "fifth": 4
-    },
-    "rank": 16
-  },
-  "solomon": {
-    "name": "solomon",
-    "roles": {
-      "first": 1,
-      "second": 2,
-      "third": 4,
-      "fourth": 0,
-      "fifth": 3
-    },
-    "rank": 4
+    "rank": 19
   }
 }

@@ -1,14 +1,21 @@
 {
-  "name": "wilsonbot",
+  "name": "WilsonBot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Discord Bot built for the Team Coast Academy server. Main functionality is a roster system that allows for team balancing.",
+  "main": "nodemon index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Chris Llaga",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "bufferutil": "^4.0.0",
+    "erlpack": "^0.1.2",
+    "node-opus": "^0.3.0",
+    "nodemon": "^1.18.3"
   }
 }
